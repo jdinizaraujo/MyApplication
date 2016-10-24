@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MeuTeste</string>
+    <string name="texto">Digite uma palavra em inglês para trazer os gifs.</string>
+    <string name="buscar">Buscar</string>
+</resources>
